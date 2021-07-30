@@ -1,11 +1,11 @@
 {
-    "name": "WhatsAsena",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
+    "name": "Mizuki",
+    "description": " Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena"],
-    "repository": "https://github.com/Quiec/WhatsAsena",
-    "website":   "https://quiec.tech",
-    "success_url": "https://t.me/AsenaSupport",
+    "keywords": ["whatsapp", "userbot", "Mizuki"],
+    "repository": "https://github.com/kisalkawshika1/Mizuki",
+
+    "success_url": "https://wa.me/+94702570900",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
